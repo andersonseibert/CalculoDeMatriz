@@ -1,6 +1,5 @@
 # Cálculo de Matrizes
 
-API utilizada no aplicativo Make Drink APP
 Aplicativo simples para cálculo de matrizes 2x2 e 3x3
 
 ### Prerequisitos
